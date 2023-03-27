@@ -1,0 +1,34 @@
+fonts---
+PTSerif Regular    400
+Montserrat Bold    700
+Montserrat Regular 400
+
+
+fonts---
+font-family: 'PT Serif', serif;
+font-family: 'Montserrat', sans-serif;
+
+color:
+#656b6f  grey
+
+
+
+header---
+
+banner---
+
+form---
+
+move---
+
+talent---
+
+experience-----
+
+invest-----
+
+academic----
+
+form-2------
+
+footer----
